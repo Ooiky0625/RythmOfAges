@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6fb941500b9d2145bc1d3a2ffad7f0e, type: 3}
+  m_Name: TracksDatabase
+  m_EditorClassIdentifier: 
+  trackList:
+  - playableAsset: {fileID: 11400000, guid: 23be2b7c74a9ac14cbc4255a9e7459e9, type: 2}
+    potrait: {fileID: 21300000, guid: afe64f68f5e88d7459e9a79b6441ef43, type: 3}
+    Mode: 0
+    songName: "\u5C81\u6708\u4E4B\u5203"
+    author: by PTUM24

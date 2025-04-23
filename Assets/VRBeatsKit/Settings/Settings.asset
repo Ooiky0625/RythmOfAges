@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7aabf7bc54d695644952b5c737f1c915, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  rightColor: {r: 0.9150943, g: 0.3496351, b: 0.68891084, a: 1}
+  leftColor: {r: 0.28927276, g: 0.12482201, b: 0.4811321, a: 1}
+  glowIntensity: 100
+  targetTravelDistance: 40
+  targetTravelTime: 0.5
+  targetTravelEase: 19
+  errorLimit: 7
+  scorePerHit: 50
+  maxMultiplier: 8
